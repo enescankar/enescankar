@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enescankar
 - 👀 I am interested in interface design and coding.
 - 🌱 I am currently learning new languages and different programs. (HTML, CSS etc.)
-- 💞️ I want to collaborate with people who can add something to me and think they can change me.
+- 🤝 I want to collaborate with people who can add something to me and think they can change me.
 - 📫 You can reach me at enescankar@gmail.com
